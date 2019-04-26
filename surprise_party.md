@@ -1,11 +1,11 @@
 # Surprise Party
 
-Don't **[VERB]** anyone, it's a secret! We are **[VERB]** a surprise **[NOUN]**
-for my **[ADJECTIVE]** friend. Here's how a **[ADJECTIVE]** party works:
-First, ask guests to **[VERB]** a **[ADJECTIVE]** gift and to arrive early
-so they don't **[VERB]** the surprise. Next, **[VERB]** the guest of honor
-to **[VERB]** you at the **[NOUN]** and time of the party, but don't **[VERB]**
-them why. Then, **[VERB]** for the party with **[NOUN]** and **[NOUN]**. When
-the **[NOUN]** **[VERB]**, everyone **[VERB]** "Surprise!".
+Don't tell anyone, it's a secret! We are throwing a surprise party
+for my best friend. Here's how a surprise party works:
+First, ask guests to bring a nice gift and to arrive early
+so they don't ruin the surprise. Next, ask the guest of honor
+to find you at the back door and time of the party, but don't tell
+them why. Then, head for the party with Krista and Pete. When
+the guest arrives, everyone shouts "Surprise!".
 
-I think surprise parties are **[ADJECTIVE]**!
+I think surprise parties are frightening!
